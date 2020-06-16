@@ -1,6 +1,2 @@
-welcome to bridgelabz
-
-
-this is updated
-
-1
+welcome to git Learn
+updated once
